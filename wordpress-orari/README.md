@@ -32,3 +32,7 @@ Questi nominativi sono tratti dal foglio Google di partenza e sono **modificabil
 **GitHub Pages non esegue PHP né WordPress.** Questo repository conserva il codice sorgente. Per gestire gli orari online serve un'installazione WordPress su un hosting PHP/MySQL.
 
 Il programma iniziale deriva dal foglio Google condiviso il 19 novembre 2026. La sincronizzazione con Google Sheets **non è automatica**; è disponibile l'importazione manuale CSV.
+
+## Anteprima
+
+Apri `anteprima/index.html` per consultare una **dimostrazione statica** degli orari e dei docenti. Non salva le modifiche e non si sincronizza con WordPress.
